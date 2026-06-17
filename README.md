@@ -102,7 +102,7 @@ keerthana = {
 
 <div align="center">
 
-[![Keerthana's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=keerthanad29&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true)](https://github.com/keerthanad29)
+[![Keerthana's Contribution Graph](https://ghchart.rshah.org/A855F7/keerthanad29)](https://github.com/keerthanad29)
 
 </div>
 
@@ -146,3 +146,7 @@ I'm actively open to **Data Science, ML Engineer, and AI roles** — internships
 </div>
 
 ---
+
+ fits comfortably)
+═══════════════════════════════════════════════════════════════
+-->

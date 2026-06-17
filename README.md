@@ -98,24 +98,7 @@ keerthana = {
 
 ---
 
----
 
-## 🏆 GitHub Trophies
-
-<!-- 
-  HOW TO ADD THIS:
-  This widget auto-generates from your GitHub activity.
-  Just paste this block — no config needed beyond your username.
-  Docs: https://github.com/ryo-ma/github-profile-trophy
--->
-
-<div align="center">
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=keerthanad29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
@@ -139,7 +122,49 @@ I'm actively open to **Data Science, ML Engineer, and AI roles** — internships
 
 ---
 
+<!-- 
+═══════════════════════════════════════════════════════════════
+  SETUP CHECKLIST — Things to do after pasting this README:
+═══════════════════════════════════════════════════════════════
 
+  ✅ DONE — Already working (just paste):
+  - Typing SVG animation (demolab.com)
+  - Profile views counter (komarev.com)
+  - GitHub Stats card (vercel.app)
+  - Top Languages card (vercel.app)
+  - Streak stats (demolab.com)
+  - Activity graph (vercel.app)
+  - GitHub Trophies (vercel.app)
+  - Skill icons (skillicons.dev)
+  - Shields.io badges
+
+  🔧 OPTIONAL UPGRADES (1–5 min each):
+  
+  1. WakaTime Coding Stats — Shows time spent in each language/editor
+     → Sign up free at https://wakatime.com
+     → Install the VS Code extension
+     → Add this after the stats section:
+       [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7)](https://wakatime.com)
+
+  2. Spotify Now Playing (optional fun touch) — Shows what you're listening to
+     → https://github.com/novatorem/novatorem
+     → Deploy to Vercel with Spotify OAuth, add widget to README
+
+  3. Snake Contribution Graph Animation (eye-catching!)
+     → Follow this guide: https://github.com/Platane/snk
+     → Add a GitHub Action that auto-regenerates the snake SVG from your contributions
+     → Once set up, embed: ![snake](https://raw.githubusercontent.com/keerthanad29/keerthanad29/output/github-contribution-grid-snake-dark.svg)
+
+  4. Add Kaggle badge if you have a profile:
+     [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+
+  5. Pin your 6 best repos on your profile page (not in README):
+     → Go to your GitHub profile → "Customize your pins" → select top 6 projects
+
+═══════════════════════════════════════════════════════════════
+  BIO (150 chars, for your GitHub profile page Settings → Bio):
+
+  Data Scientist | NLP & LLMs | Building AI that turns raw data into decisions | Open to ML roles 🚀
   
   (Exactly 102 chars — fits comfortably)
 ═══════════════════════════════════════════════════════════════

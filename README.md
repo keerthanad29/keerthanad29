@@ -98,14 +98,6 @@ keerthana = {
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Keerthana's Contribution Graph](https://ghchart.rshah.org/A855F7/keerthanad29)](https://github.com/keerthanad29)
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -147,6 +139,8 @@ I'm actively open to **Data Science, ML Engineer, and AI roles** — internships
 
 ---
 
- fits comfortably)
+
+  
+  (Exactly 102 chars — fits comfortably)
 ═══════════════════════════════════════════════════════════════
 -->
